@@ -71,8 +71,8 @@
                         <div class="col-lg-3 col-5">
                             <div class="site_logo">
                                 <a class="site_link" href=" ">
-                                    <img src="{{ asset('images/site_logo/site_logo.png') }}" alt="Site Logo – ADH Group">
-                                    <img src="{{ asset('images/site_logo/site_logo.png') }}" alt="Site Logo – ADH Group">
+                                    <img src="{{ asset('images/site_logo/logoadh.png') }}" alt="Site Logo – ADH Group">
+                                    <img src="{{ asset('images/site_logo/logoadh.png') }}" alt="Site Logo – ADH Group">
                                 </a>
                             </div>
                         </div>
